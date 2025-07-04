@@ -419,3 +419,5 @@ FodyWeavers.xsd
 
 # Custom 
 test_dir
+.venv
+.env
